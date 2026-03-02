@@ -158,8 +158,9 @@ fun Pantalla1() {
                 Box(modifier = Modifier.weight(1f), contentAlignment = Alignment.Center) {
                     Column(modifier = Modifier.fillMaxSize(), verticalArrangement = Arrangement.Center, horizontalAlignment = Alignment.CenterHorizontally) {
                         Text("¥9.9", fontSize = 30.sp, fontWeight = FontWeight.Bold, color = Color(
-                            0xFFFF2600
+                            0xFFEF887F
                         )
+
                         )
                         Spacer(modifier = Modifier.height(10.dp))
                         Text("¥98", fontSize = 15.sp, fontWeight = FontWeight.Bold, color = Color(0xFFA0A0A0), textDecoration = TextDecoration.LineThrough)
@@ -206,7 +207,7 @@ fun Pantalla1() {
                             "¥398",
                             fontSize = 30.sp,
                             fontFamily = MuseoFontFamily, fontWeight = FontWeight.Bold,
-                            color = Color(0xFFFF2500)
+                            color = Color(0xFFEF887F)
                         )
                         Spacer(modifier = Modifier.height(8.dp))
                         Text(
