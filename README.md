@@ -14,7 +14,7 @@ El examen consiste en replicar la UI (User Interface) de una aplicacion movil de
 
 # Resultado obtenido
 
-<img width="282" height="545" alt="image" src="https://github.com/user-attachments/assets/5f0303f2-0fda-4ecc-8016-e96c922353bb" />
+<img width="213" height="466" alt="image" src="https://github.com/user-attachments/assets/e5d60cbb-b02b-488d-bc89-9bcb4d1244ac" />
 
 <img width="244" height="522" alt="image" src="https://github.com/user-attachments/assets/826da1c6-c17e-4aa2-8ff2-dcd5175d8b2c" />
 
